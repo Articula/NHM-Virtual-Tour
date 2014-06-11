@@ -1,0 +1,56 @@
+body{
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+	text-align: center;
+	background:url(images/background.png) repeat-x #A6A6A6;
+}
+a{
+	color: #8a3d12;
+}
+#container{
+	margin: 0 auto;
+	margin-top: 0;
+	text-align: left;
+	width: 700px;
+	border: 1px solid black;
+	background: white;
+}
+#logo{
+	background: url(images/title.gif) no-repeat center top;
+	padding-top: 110px;
+}
+#navi{
+	text-align: center;
+	padding: 5px;
+	font-size: small;
+}
+#navi a{
+	text-decoration: none;
+}
+#navi a:hover{
+	text-decoration: underline;
+}
+#infoDiv{
+}
+.textContent{
+	margin: 10px;
+}
+#footer{
+	text-align: center;
+	font-size: small;
+	margin: 5px;
+}
+
+.panoLink{
+	color: #cf7b41;
+}
+
+.closeLink{
+border: 0;
+}
+
+.floatRight{
+float: right;
+}
+.floatLeft{
+float: left;
+}
